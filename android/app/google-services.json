@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627561294937",
+    "firebase_url": "https://xyphuz-scanner.firebaseio.com",
+    "project_id": "xyphuz-scanner",
+    "storage_bucket": "xyphuz-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627561294937:android:27b340e66e93afea",
+        "android_client_info": {
+          "package_name": "com.xyphuz.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627561294937-79ilp8rl0697ad57tlc90bmb8enaavm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7mh7kKo4y85PK6G7AbtM4qJ623q7O6Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627561294937-79ilp8rl0697ad57tlc90bmb8enaavm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
